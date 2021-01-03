@@ -34,6 +34,7 @@ algae[1].sort()
 algae[2].sort()
 alien=['life', 'space']
 alien.sort()
+
 allergy=['human', 'dust']
 allergy.sort()
 alligator=[['lizard','swamp'],['lizard', 'river']]
